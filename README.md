@@ -26,7 +26,7 @@ It was also inspired by the following works:
 
 ## Gratitude
 
-Thanks to the Inkscape contributors for openly developing and freely distribuing such an amazing tool.
+Thanks to the [Inkscape](https://inkscape.org/) contributors for openly developing and freely distribuing such an amazing tool.
 
 ## License
 
