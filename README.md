@@ -2,7 +2,7 @@
 
 This repo contains the logo of Javalupe Studios.
 
-![javalupe-logo](logo/javalupe-logo.png)
+![javalupe-logo](assets/javalupe-logo.png)
 
 ## Explanation
 
